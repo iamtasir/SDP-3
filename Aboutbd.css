@@ -1,0 +1,15 @@
+﻿.button {
+    color: #fbfcfd;
+    padding: 20px 30px;
+    background: transparent;
+    border: 1px solid #fff;
+    border-radius:40px;
+}
+.Buttoninside {
+    color: #fbfcfd;
+    padding: 10px 25px;
+    background: transparent;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    cursor:pointer;
+}

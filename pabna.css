@@ -1,0 +1,33 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background:url('Image/Raj div/pabna/pabnabg1.jpg') fixed center;
+    background-image: url('Image/Raj div/pabna/pabnabg1.jpg');
+    background-size:cover;
+}
+.main {margin-bottom:10px;
+       padding:0 0 10px 100px;
+
+}
+.main ul li:hover{
+    color:red;
+}
+
+.pnl_txt {
+    margin: 5px 5px 5px 5px;
+    padding: 10px 10px 10px 10px;
+}
+.button {
+    color: black;
+    padding: 20px 30px;
+    background: transparent;
+    border: 1px solid #000000;
+    border-radius: 40px;
+    cursor:pointer;
+}
+.bu:hover {
+    box-shadow: 5px 5px 5px rgba(0,0,0,.2);
+}
+.about{
+    padding-left:10px;
+}
